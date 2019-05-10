@@ -1,0 +1,35 @@
+#firstDice {
+    display: none;
+    width: 40%;
+}
+
+#secondDice {
+    display: none;
+    width: 40%;
+    
+}
+
+#thirdDice {
+    display: none;
+    width: 40%;
+}
+
+#fourthDice {
+    display: none;
+    width: 40%;
+}
+
+#fifthDice {
+    display: none;
+    width: 40%;
+}
+
+#sixthDice {
+    display: none;
+    width: 40%;
+}
+
+body {
+    background-color: pink;
+}
+
